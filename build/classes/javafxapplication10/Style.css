@@ -1,0 +1,181 @@
+#actionLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#adventureLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#cartLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#horrorLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#libraryLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#mmoLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#roleplayingLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#simulationLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#sportsLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#strategyLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+#walletLabel:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  -fx-border-color:  #304da4;
+  -fx-text-fill:  #304da4;
+  -fx-opacity: 0.8;
+}
+
+#x:hover{
+  -fx-background-color: red;
+  -fx-border-color: red;
+  
+  -fx-border-color:  white;
+  -fx-text-fill:  white;
+  -fx-opacity: 0.8;
+}
+
+#loginButton:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  
+  -fx-opacity: 0.8;
+}
+
+#loginLabel:hover {
+    -fx-text-fill:  blueviolet;
+}
+
+#signupButton:hover{
+  -fx-background-color: white;
+  -fx-border-color: white;
+  -fx-background-radius: 10 0 0 10;
+  
+  -fx-opacity: 0.8;
+}
+
+#img1{
+    -fx-image: url("images/RedDead2.jpg");
+}
+
+#img1:hover{
+    -fx-image: url("images/2.png");
+}
+
+#img2{
+    -fx-image: url("images/TheWalkingDead.jpg");
+}
+
+#img2:hover{
+    -fx-image: url("images/3.png");
+}
+
+#img3{
+    -fx-image: url("images/StarWarsJediFallenOrder.jpg");
+}
+
+#img3:hover{
+    -fx-image: url("images/4.png");
+}
+
+#img4{
+    -fx-image: url("images/DeathStranding.jpg");
+}
+
+#img4:hover{
+    -fx-image: url("images/1.png");
+}
+
+#img5{
+    -fx-image: url("images/HorizonZeroDawn.jpg");
+}
+
+#img5:hover{
+    -fx-image: url("images/5.png");
+}
+
+#img6{
+    -fx-image: url("images/Control.jpg");
+}
+
+#img6:hover{
+    -fx-image: url("images/6.png");
+}
+
+#img7{
+    -fx-image: url("images/OuterWilds.jpg");
+}
+
+#img7:hover{
+    -fx-image: url("images/7.png");
+}
+
+#img8{
+    -fx-image: url("images/DaysGone.jpg");
+}
+
+#img8:hover{
+    -fx-image: url("images/8.png");
+}
